@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "coding practice",
+  "main": "none",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petrix76/LeetCode.git"
+  },
+  "author": "Petr Jeníček",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petrix76/LeetCode/issues"
+  },
+  "homepage": "https://github.com/Petrix76/LeetCode#readme"
+}
